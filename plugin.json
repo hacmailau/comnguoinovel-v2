@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "Personal",
+    "description": "Cơm Nguội Novel cho VBook mới/beta"
+  },
+  "data": [
+    {
+      "name": "Cơm Nguội Novel",
+      "author": "Personal",
+      "version": 2,
+      "source": "https://comnguoinovel.com",
+      "description": "Tìm và đọc truyện Chung/BL. Cần đăng nhập thủ công trong trình duyệt VBook để đọc chương.",
+      "type": "novel",
+      "locale": "vi",
+      "path": "https://raw.githubusercontent.com/hacmailau/comnguoinovel-v2/main/comnguoinovel/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/hacmailau/comnguoinovel-v2/main/comnguoinovel/icon.png"
+    }
+  ]
+}

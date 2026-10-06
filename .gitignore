@@ -1,0 +1,5 @@
+.DS_Store
+.agents/skills/vbook-extensions/scripts/servers.json
+node_modules/
+.env
+.env.*
